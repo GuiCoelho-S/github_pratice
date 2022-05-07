@@ -1,5 +1,5 @@
 Hello world !  
 
 1. This line will be merge conflicts, by order person 
-2. Now, I'm trying to do the same
+2. Now, I'm trying to do the same, and me, I'm just getting to do more conflits :)
  
