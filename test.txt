@@ -1,4 +1,4 @@
-Hello world ! 
+Hello world !  
 
-1. This line will be merge conflicts
+1. This line will be merge conflicts, by order person 
  
