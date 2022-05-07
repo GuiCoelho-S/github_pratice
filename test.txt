@@ -1,5 +1,5 @@
 Hello world !  
 
 1. This line will be merge conflicts, by order person 
-2. Now, I'm trying to do the same
+2. Now, I'm trying to do the same, here I'm trying to conflict with my friend
  
